@@ -8,12 +8,15 @@
 
 ## Data Visualization
 Box and Whisker Plot:
+
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/box%20and%20whisker%20plots.png" height="500" width="600">
 
 Histogram :
+
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/histogram.png" height="500" width="600">
 
 Scatter Plot Matrix:
+
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/scatter%20plot%20matrix.png" height="500" width="600">
 
 ## Evaluate Algorithms
