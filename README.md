@@ -14,7 +14,7 @@ Breakdown of the data by the class variable.
 
 ## Data Visualization
 Create Univariate plots to better understand each attribute.
-Multivariate plots to better understand the relationships between attributes.
+
 Box and Whisker Plot:
 
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/box%20and%20whisker%20plots.png" height="400" width="500">
@@ -24,6 +24,7 @@ Histogram :
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/histogram.png" height="400" width="500">
 
 Scatter Plot Matrix:
+
 Multivariate plots to better understand the relationships between attributes.The suggests a high correlation and a predictable relationship.
 
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/scatter%20plot%20matrix.png" height="400" width="500">
@@ -49,5 +50,6 @@ Support Vector Machines (SVM).
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/comparison.png" height="400" width="500">
 
 ## Prediction & Accuracy Score
-The KNN algorithm was the most accurate model. The accuracy is 0.9 or 90%. The confusion matrix provides an indication of the three errors made.
+The KNN algorithm was the most accurate model. The accuracy is 0.9 or 90%. 
+The confusion matrix provides an indication of the three errors made.
 <img src="https://github.com/rliu49/Iris-Machine-Learning/blob/master/Imgs/predication.png" height="350" width="850">
